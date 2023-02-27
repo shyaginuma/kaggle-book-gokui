@@ -24,7 +24,7 @@ $ docker build -t kaggle-book-ch4 .
 $ kaggle datasets download -d qiubit/roxfordparis -p data
 $ kaggle datasets download -d confirm/google-landmark-dataset-v2-micro -p data
 $ unzip data/roxfordparis.zip -d data
-$ unzip google-landmark-dataset-v2-micro -d data
+$ unzip data/google-landmark-dataset-v2-micro -d data
 ```
 
 ## コードの実行
